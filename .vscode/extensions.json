@@ -3,6 +3,7 @@
         "Nuxtr.nuxt-vscode-extentions",
         "esbenp.prettier-vscode",
         "YoavBls.pretty-ts-errors",
-        "dbaeumer.vscode-eslint"
+        "dbaeumer.vscode-eslint",
+        "bradlc.vscode-tailwindcss"
     ]
 }
