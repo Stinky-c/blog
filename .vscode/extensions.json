@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "Nuxtr.nuxt-vscode-extentions",
+        "esbenp.prettier-vscode",
+        "YoavBls.pretty-ts-errors",
+        "dbaeumer.vscode-eslint"
+    ]
+}
