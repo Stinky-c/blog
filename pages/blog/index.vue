@@ -1,6 +1,6 @@
 <template>
   <div
-    class="container mx-auto w-full sm:max-w-full md:max-w-[95%] lg:max-w-[80%] h-screen min-h-screen"
+    class="container mx-auto w-full sm:max-w-full md:max-w-[95%] lg:max-w-[80%] h-full min-h-full"
   >
     <ul class="list bg-base-200 rounded-box shadow-md">
       <li class="p-4 pb-2 text-xs opacity-60 tracking-wide">Sorted Posts</li>
