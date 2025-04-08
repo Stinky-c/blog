@@ -1,5 +1,5 @@
 ---
-tite: Hello-World
+title: Hello-World
 author: test
 description: Hello World!
 created: 2020-01-01T00:00:00+02:00

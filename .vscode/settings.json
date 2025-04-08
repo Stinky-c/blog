@@ -20,9 +20,11 @@
         "tw\\(\\s*('(.*?)'|\"(.*?)\")\\s*\\)"
     ],
     "files.associations": {
-        "*.css": "tailwindcss"
+        "*.css": "tailwindcss",
+        "*.md": "mdc"
     },
     "editor.quickSuggestions": {
         "strings": true
-    }
+    },
+    "vue.server.hybridMode": true
 }
