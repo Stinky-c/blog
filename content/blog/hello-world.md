@@ -1,14 +1,14 @@
 ---
-title: Hello-World
+title: Test Document
 author: test
-description: Hello World!
+description: This is a document testing all features.
 created: 2020-01-01T00:00:00+02:00
 updated: 2025-04-08T05:47:53+08:00
 ---
 
 # An h1 header
 
-Adapted from: https://gist.github.com/rt2zz/e0a1d6ab2682d2c47746950b84c0b6ee
+Adapted from a gist by [rt2zz](https://gist.github.com/rt2zz/e0a1d6ab2682d2c47746950b84c0b6ee)
 
 Paragraphs are separated by a blank line.
 

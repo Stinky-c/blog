@@ -17,10 +17,10 @@
         <Icon name="material-symbols:news-rounded" class="size-[1.2em]" />
         Blog</NuxtLink
       >
-      <NuxtLink class="btn btn-ghost text-xl" to="/docs">
+      <!-- <NuxtLink class="btn btn-ghost text-xl" to="/docs">
         <Icon name="material-symbols:book-2" class="size-[1.2em]" />
         Docs
-      </NuxtLink>
+      </NuxtLink> -->
     </div>
 
     <div class="flex-none w-10">
@@ -28,7 +28,9 @@
     </div>
     <div class="avatar flex-none w-10">
       <div class="w-10 rounded-full">
-        <img src="https://github.com/stinky-c.png" />
+        <NuxtLink to="https://github.com/stinky-c"
+          ><img src="https://github.com/stinky-c.png" />
+        </NuxtLink>
       </div>
     </div>
   </div>
